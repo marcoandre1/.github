@@ -1,20 +1,20 @@
-# [PR]: 
+# [PR]: [Title]
 
 > **This is a custom PR, modify template if needed**
 
-## Description 
+## Description
 
-_(Describe your PR)_
+> Small description
 
 Proposed changes:
 
-  -
-  -
-  -
+-
+-
+-
 
 ## Related issue
 
-_(if applicable)_
+> if applicable
 
 Fixes #
 
@@ -22,4 +22,4 @@ Fixes #
 
 Repository owner: @marcoandre1
 
-**Thank you! 🙌**
+### Thank you! 🙌
