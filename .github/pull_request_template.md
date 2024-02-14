@@ -2,25 +2,23 @@
 
 <!--
 
-merge template: ?quick_pull=1&assignees=marcoandre1&template=merge_pull_request_template.md
+merge template: to use a template, simply append the link after the question mark "?"
 
-develop to release: https://github.com/marcoandre1/marcoandre1.github.io/compare/release...develop?quick_pull=1&assignees=marcoandre1&template=merge_pull_request_template.md
+develop to release: https://github.com/marcoandre1/[REPO_NAME]/compare/release...develop?quick_pull=1&assignees=marcoandre1&template=merge_develop_to_release.md
 
-release to develop: https://github.com/marcoandre1/marcoandre1.github.io/compare/release...develop?quick_pull=1&assignees=marcoandre1&template=merge_pull_request_template.md
+release to master: https://github.com/marcoandre1/[REPO_NAME]/compare/master...release?quick_pull=1&assignees=marcoandre1&template=merge_release_to_master.md
 
-master to develop: https://github.com/marcoandre1/marcoandre1.github.io/compare/release...develop?quick_pull=1&assignees=marcoandre1&template=merge_pull_request_template.md
+master to develop: https://github.com/marcoandre1/[REPO_NAME]/compare/develop...master?quick_pull=1&assignees=marcoandre1&template=merge_master_to_develop.md
 
 --->
 
 ## Description
 
-<!--
+> e.g. Bump packages
 
-Describe your PR
+## Proposed changes
 
---->
-
-Proposed changes:
+> Changes should be logged in `CHANGELOG.md` file from `feature` branch.
 
 -
 -
@@ -44,9 +42,3 @@ Repository owner: @marcoandre1
 
 ### Thank you! 🙌
 
-<!--
-
-Need a custom PR template, use the template query parameter: ?quick_pull=1&assignees=marcoandre1&template=custom_pull_request_template.md
-Reference: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository
-
---->
