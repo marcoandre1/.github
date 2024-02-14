@@ -4,7 +4,7 @@
 
 Merge release to master
 
-Proposed changes:
+## Proposed changes
 
 - Changes should be logged in `CHANGELOG.md` file from `release` branch
 
