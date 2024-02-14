@@ -4,7 +4,7 @@
 
 Merge master to develop
 
-## Proposed changes:
+## Proposed changes
 
 **Stack Overflow answer powered by AI**
 
