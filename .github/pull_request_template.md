@@ -34,9 +34,9 @@ For a more detailed list of keywords: https://docs.github.com/en/get-started/wri
 
 --->
 
-Closes #
-Fixes #
-Resolves #
+Closes #  
+Fixes #  
+Resolves #  
 
 ## Notify
 
