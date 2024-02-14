@@ -4,7 +4,7 @@
 
 Merge develop to release
 
-## Proposed changes:
+## Proposed changes
 
 - Changes should be logged in `CHANGELOG.md` file from `develop` branch
 
