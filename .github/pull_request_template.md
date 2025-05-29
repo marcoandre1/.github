@@ -22,9 +22,9 @@
 ## 🛠️ Proposed Changes
 
 <!-- List the main changes introduced in this PR. -->
--
--
--
+- [ ] Change description
+- [ ] Change description
+- [ ] Change description
 
 > 📒 Remember to update the `CHANGELOG.md` file from the `feature` branch.
 
@@ -45,7 +45,7 @@ Resolves #
 ## 👥 Notify
 
 - Repository owner: @marcoandre1
-- Reviewer(s):
+- Reviewer(s): @username
 
 ---
 
